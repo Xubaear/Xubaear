@@ -1,13 +1,13 @@
-** It's Zubaear
+**It's Zubaear**
 
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=xubaear&label=Profile%20views&color=0e75b6&style=flat" alt="xubaear" /> </p>
 
-** 👨‍💻 All of my projects are available at
+** 👨‍💻 All of my projects are available at **
 -  [https://github.com/Xubaear](https://github.com/Xubaear)
 
-&& 📫 How to reach me 
+** 📫 How to reach me **
 **zubaear.hasan7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
