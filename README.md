@@ -1,6 +1,6 @@
 ##  <h3 align="center">It's Zubaear 😎</h3>
 
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h3 align="center">A Passionate MERN Stack Developer From Bangladesh</h3>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=xubaear&label=Profile%20views&color=0e75b6&style=flat" alt="xubaear" /> </p>
