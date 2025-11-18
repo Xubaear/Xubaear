@@ -1,4 +1,4 @@
-## - It's Zubaear 😎
+##  <h3 align="center">It's Zubaear 😎</h3>
 
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
