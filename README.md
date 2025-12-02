@@ -29,7 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xubaear&show_icons=true&locale=en" alt="xubaear" /></p>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Xubaear/Xubaear/output/snake.svg" alt="Snake animation" />
 
