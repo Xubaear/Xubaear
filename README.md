@@ -25,5 +25,8 @@
 
 
 
+<div align="center">
 
+![snake gif](https://github.com/Xubaear/Xubaear/blob/output/github-snake-dark.svg)
+</div>
 
