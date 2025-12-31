@@ -29,5 +29,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xubaear&show_icons=true&locale=en" alt="xubaear" /></p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xubaear&show_icons=true&locale=en&layout=compact" height="170" alt="xubaear's Top Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=xubaear&show_icons=true&locale=en" height="170" alt="xubaear's GitHub Stats" />
+</div>
+
 
 
