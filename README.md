@@ -29,37 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xubaear&show_icons=true&locale=en" alt="xubaear" /></p>
 
-name: Generate Snake
-
-on:
-  # প্রতিদিন মাঝরাতে অটোমেটিক আপডেট হবে
-  schedule:
-    - cron: "0 0 * * *" 
-  
-  # ম্যানুয়ালি রান করার অপশন
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v2
-
-      - uses: Platane/snk@v3
-        with:
-          # আপনার গিটহাব ইউজারনেম অটোমেটিক নিয়ে নেবে
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}/>
-
-
-
